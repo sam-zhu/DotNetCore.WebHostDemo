@@ -4,3 +4,5 @@
 
 /ConsoleApp1/obj
 /ConsoleApp1/bin/Debug/netcoreapp2.0
+/.vs
+/DotNetCore.WebHostDemo.v12.suo
